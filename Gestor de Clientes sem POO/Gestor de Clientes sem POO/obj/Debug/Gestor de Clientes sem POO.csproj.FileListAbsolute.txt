@@ -1,0 +1,7 @@
+C:\Users\jpjop\source\repos\Gestor de Clientes sem POO\Gestor de Clientes sem POO\bin\Debug\Gestor de Clientes sem POO.exe.config
+C:\Users\jpjop\source\repos\Gestor de Clientes sem POO\Gestor de Clientes sem POO\bin\Debug\Gestor de Clientes sem POO.exe
+C:\Users\jpjop\source\repos\Gestor de Clientes sem POO\Gestor de Clientes sem POO\bin\Debug\Gestor de Clientes sem POO.pdb
+C:\Users\jpjop\source\repos\Gestor de Clientes sem POO\Gestor de Clientes sem POO\obj\Debug\Gestor de Clientes sem POO.csproj.AssemblyReference.cache
+C:\Users\jpjop\source\repos\Gestor de Clientes sem POO\Gestor de Clientes sem POO\obj\Debug\Gestor de Clientes sem POO.csproj.CoreCompileInputs.cache
+C:\Users\jpjop\source\repos\Gestor de Clientes sem POO\Gestor de Clientes sem POO\obj\Debug\Gestor de Clientes sem POO.exe
+C:\Users\jpjop\source\repos\Gestor de Clientes sem POO\Gestor de Clientes sem POO\obj\Debug\Gestor de Clientes sem POO.pdb
